@@ -67,7 +67,13 @@ The process_frame() function processes each frame from the video feed. Each fram
 The gesture recognition and AR overlay functions can be easily modified to support more complex hand motions, making the system highly adaptable for future improvements.
 
 # Results
+![Screenshot (1829)](https://github.com/user-attachments/assets/40fc7d5c-7403-4cce-b28a-eb1f91fa4d7d)
 
+![Screenshot (1830)](https://github.com/user-attachments/assets/6c0f605f-1ca1-4f6a-9c6c-ac7137c4630a)
+
+![Uploading Screenshot (1831).png…]()
+
+![Screenshot (1832)](https://github.com/user-attachments/assets/b5476921-8387-4320-9dc1-4abd7d2b47ac)
 
 ## Future Improvements
 Several enhancements could expand the system's functionality:
