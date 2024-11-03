@@ -8,4 +8,22 @@ This project presents a real-time hand gesture recognition system combined with 
 4. Dependencies and Installation
 5. Running the System
 6. Future Improvements
+## Objective Overview
+The primary objective of this project is to develop an end-to-end pipeline for hand gesture recognition and tracking, augmented reality overlays, and real-time data visualization. The system identifies specific hand gestures based on detected landmark positions and translates these gestures into commands for controlling on-screen elements. Additionally, it integrates voice command recognition to expand the interaction capabilities and allow multimodal communication.
+
+### System Architecture
+This system is structured in a modular pipeline, as illustrated in Figure 1 below.
+
++-----------------+        +----------------+        +-------------------+
+|  Video Capture  | -----> | Gesture Recognition | -----> | UI Control & AR Display |
++-----------------+        +----------------+        +-------------------+
+                                        |
+                             +-----------------+
+                             | Voice Command   |
+                             +-----------------+
+                             |
+                             V
+                      +-------------------+
+                      | Data Visualization |
+                      +-------------------+
 
